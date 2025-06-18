@@ -1,8 +1,8 @@
 Hi, I’m Hadeer <br/>  
 <br/>  
-Welcome to **The Velvet Scalpel** — where I dissect genomes, sculpt data into insight, and build machine learning pipelines that read between life's lines.🩸<br/>  
+Welcome to **The Velvet Scalpel** — where I dissect genomes, sculpt data into insight, and build machine learning pipelines that read between life's lines.<br/>  
 <br/>  
-I work where biology meets code — turning raw data into insight, and questions into models.🧬<br/>  
+I work where biology meets code — turning raw data into insight, and questions into models.<br/>  
 <br/>  
 I’ve studied genomes, built pipelines, and mapped signals no one else saw coming.<br/>  
 My work moves between molecular biology, bioinformatics, and data science — quietly, precisely.🦉<br/>  
