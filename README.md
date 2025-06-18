@@ -15,7 +15,8 @@ My work moves between molecular biology, bioinformatics, and data science — qu
 I don’t overshare, but the work speaks.🖤<br/>  
 <br/>  
 The work is technical. The thinking is personal. The outcomes — never random.<br/>  
-Uncertainty is natural. I just quantify it.
+
+
 
 
 
