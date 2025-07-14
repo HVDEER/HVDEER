@@ -13,7 +13,7 @@ My work moves between molecular biology, bioinformatics, and data science.<br/>
 ⚙️ Currently working on the intersection of machine learning and life itself<br/>  
 
 <br/>  
-The work is technical. The thinking is personal. The outcomes — never random.<br/>  
+The work is technical. The thinking is personal. The outcomes — calculated.<br/>  
 
 
 
